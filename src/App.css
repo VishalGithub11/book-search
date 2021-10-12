@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.container{
+  background-color: #818181;
+  display: grid;
+  grid-template-rows: 50px 250px;
+  padding: 5em;
+}
+.search{
+
+}
+.content{
+  margin: auto;
+  display: grid;
+  grid-template-columns: 100px 100px;
+  grid-template-rows: 35px 35px 35px 35px;
+}
