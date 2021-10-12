@@ -56,6 +56,7 @@ function App() {
   const handleSubmit = (e) => {
     e.preventDefault();
     fetchOtherApi();
+    // fetchData();
   };
 
   return (
